@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img class="fit-picture" src="https://github-readme-stats.vercel.app/api?username=BricksAndPieces&show_icons=true&theme=radical">
+
 <!--
 **BricksAndPieces/BricksAndPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
