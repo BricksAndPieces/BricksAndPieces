@@ -1,7 +1,14 @@
 ### Hi there 👋
+I'm **Ishan Shetty** and I'm a **Software Engineer** and **Student**.
+<br>
+I love building **Visualizations**, **Simulations** and am especially interested in **Machine Learning**.
 
-<img class="fit-picture" src="https://github-readme-stats.vercel.app/api?username=BricksAndPieces&show_icons=true&theme=radical">
+#### Want to contact? ☎️
+Message me on [LinkedIn <img width=20 height=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/ishan-shetty/)
+
+#### Stats 📊
 <img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BricksAndPieces&layout=compact">
+<img class="fit-picture" src="https://github-readme-stats.vercel.app/api?username=BricksAndPieces&show_icons=true&theme=radical">
 
 <!--
 **BricksAndPieces/BricksAndPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
